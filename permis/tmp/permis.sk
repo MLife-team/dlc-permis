@@ -1,5 +1,0 @@
-command /permis:
-	trigger:
-		send "Vos permis disponibles"
-		send " - Moto"
-		send " - Arme"
